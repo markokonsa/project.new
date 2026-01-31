@@ -1,3 +1,7 @@
 packages:
-  - "apps/*"
+  - "apps/docs"
+  - "apps/office"
+  - "apps/umami"
+  #- "apps/workflows"
+  - "apps/web"
   - "packages/*"
