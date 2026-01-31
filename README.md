@@ -49,3 +49,6 @@ pnpm run dev
 ```
 
 - Analytics is stored into umami schema keeping it secure. (admin / umami as initial credentials)
+
+----
+After working with multiple startups I've found given cost-effective MVP structure. Each repository is just an boilerplate which can be modified as needed.
